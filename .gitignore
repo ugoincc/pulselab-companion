@@ -1,0 +1,16 @@
+node_modules/
+.expo/
+dist/
+*.log
+.DS_Store
+
+# Android
+android/.gradle/
+android/build/
+android/app/build/
+android/app/.cxx/
+android/local.properties
+android/.idea/
+*.iml
+# debug.keystore é versionada de propósito (ver README)
+*.jks

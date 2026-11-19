@@ -1,0 +1,14 @@
+{
+  "expo": {
+    "name": "PulseLab",
+    "slug": "pulselab-companion",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "dark",
+    "newArchEnabled": true,
+    "android": {
+      "package": "br.unioeste.pulselab",
+      "edgeToEdgeEnabled": true
+    }
+  }
+}
